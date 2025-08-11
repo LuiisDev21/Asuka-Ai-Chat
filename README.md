@@ -1,4 +1,4 @@
-# Asuka Ai
+# Asuka Ai Chat
 
 ![Asuka Ai Banner](./banner.png)
 
