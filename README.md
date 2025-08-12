@@ -1,7 +1,7 @@
 # Asuka Ai Chat
 
 ![Asuka Ai Banner](./banner.png)
-
+![Asuka Ai Screenshot](./screenshot.jpg)
 ## Description
 
 **Asuka Ai** is an advanced conversational assistant inspired by ChatGPT, developed using the **DeepSeek API**. Its primary goal is to provide fast, accurate, and natural interactions, while maintaining the flexibility to adapt to various domains such as education, technical support, creative content generation, and process automation.
