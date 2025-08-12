@@ -1,6 +1,8 @@
 # Asuka Ai Chat
 
-<img src="./screenshot.jpg" alt="Asuka Ai Screenshot" width="400">
+<p align="center">
+  <img src="./screenshot.jpg" alt="Asuka Ai Screenshot" width="400">
+</p>
 
 ## Description
 
