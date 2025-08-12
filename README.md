@@ -1,6 +1,5 @@
 # Asuka Ai Chat
 
-![Asuka Ai Banner](./banner.png)
 ![Asuka Ai Screenshot](./screenshot.jpg)
 ## Description
 
