@@ -1,4 +1,4 @@
-# Asuka Ai Chat
+# Asuka Ai Chat (Temporaly OFF)
 
 <p align="center">
   <img src="./screenshot.jpg" alt="Asuka Ai Screenshot" width="400">
